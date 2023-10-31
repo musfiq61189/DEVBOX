@@ -1,0 +1,19 @@
+body{
+    background-image: url(mm.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: scroll;
+    opacity: 0.9;
+}
+h1{
+    color: aquamarine;
+}
+#pera{
+    color: blueviolet;
+}
+.second_heading{
+    color: blue;
+}
+#musfiq{
+    color: blueviolet;
+}
