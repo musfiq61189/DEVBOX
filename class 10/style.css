@@ -1,0 +1,38 @@
+/* 
+h2{
+    border-style: solid;
+    border-width:5px;
+    border-color: blueviolet;
+    color: rgb(71, 5, 38);
+} */
+
+
+/* h2{
+   border: solid 5px rgb(11, 209, 11);
+    color: rgb(71, 5, 38);
+} */
+
+/* 
+h2{
+    border-top: 5px solid green;
+    border-right: 5px solid red;
+    border-bottom: 5px solid yellow;
+    border-left: 5px solid blue;
+    color: rgb(71, 5, 38);} */
+
+    h2{
+        border: solid 5px rgb(11, 209, 11);
+        border-radius: 10px;
+         color: rgb(71, 5, 38);
+     } 
+
+     .firstbox{
+        background-color: blueviolet;
+        width: 600px;
+        height: 300px;
+     }
+
+     #innerbox{
+        background-color: green;
+        margin: 5px;
+     }
